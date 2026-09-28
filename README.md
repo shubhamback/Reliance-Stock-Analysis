@@ -11,7 +11,7 @@
 
 ### 🔴 [**View Live Dashboard →**](YOUR_POWER_BI_PUBLISH_LINK_HERE)
 
-<img src="images/home.png" alt="Home Page" width="850"/>
+<img src="Images/home.png" alt="Home Page" width="850"/>
 
 </div>
 
@@ -49,11 +49,11 @@ The report is built as a 5-page, navigation-driven Power BI dashboard with a con
 
 | Overview | Trends & Returns |
 |:---:|:---:|
-| <img src="images/overview.png" width="420"/> | <img src="images/trends_returns.png" width="420"/> |
+| <img src="Images/overview.png" width="420"/> | <img src="Images/trends_returns.png" width="420"/> |
 
 | Volatility | Summary |
 |:---:|:---:|
-| <img src="images/volatility.png" width="420"/> | <img src="images/summary.png" width="420"/> |
+| <img src="Images/volatility.png" width="420"/> | <img src="Images/summary.png" width="420"/> |
 
 > 🎥 **Demo video:** _add link here_
 
@@ -189,7 +189,7 @@ RETURN DIVIDE(EndClose - StartClose, StartClose)
 ## 🚀 How to Use
 
 1. Clone or download this repository
-2. Open `Reliance_Stock_Analysis.pbix` in **Power BI Desktop**
+2. Open `stock project power bi.pbix` in **Power BI Desktop**
 3. If prompted, update the data source path to your local `data/` folder
 4. Or simply open the **[live dashboard](YOUR_POWER_BI_PUBLISH_LINK_HERE)** in your browser
 
@@ -197,7 +197,7 @@ RETURN DIVIDE(EndClose - StartClose, StartClose)
 📁 Reliance-Stock-Analysis
  ┣ 📁 data
  ┣ 📁 images
- ┣ 📄 Reliance_Stock_Analysis.pbix
+ ┣ 📄 stock project power bi.pbix
  ┗ 📄 README.md
 ```
 
