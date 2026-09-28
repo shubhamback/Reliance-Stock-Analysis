@@ -9,7 +9,7 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
 ![NSE Data](https://img.shields.io/badge/Data-NSE%20India-blue?style=for-the-badge)
 
-### 🔴 [**View Live Dashboard →**](YOUR_POWER_BI_PUBLISH_LINK_HERE)
+### 🔴 [**View Live Dashboard →**](https://app.powerbi.com/view?r=eyJrIjoiMGIxNDFmMTItM2Y4MC00YjEyLWI2MTUtYzdlN2FkYzkzMmJlIiwidCI6ImE3Y2M2NzM5LWQ2NWMtNDY1Mi1iY2FmLWZhNmQwMGUwMzI4YSJ9&pageName=4a4aae277d0a0b805b9a)
 
 <img src="Images/home.png" alt="Home Page" width="850"/>
 
@@ -191,7 +191,7 @@ RETURN DIVIDE(EndClose - StartClose, StartClose)
 1. Clone or download this repository
 2. Open `stock project power bi.pbix` in **Power BI Desktop**
 3. If prompted, update the data source path to your local `data/` folder
-4. Or simply open the **[live dashboard](YOUR_POWER_BI_PUBLISH_LINK_HERE)** in your browser
+4. Or simply open the **[live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGIxNDFmMTItM2Y4MC00YjEyLWI2MTUtYzdlN2FkYzkzMmJlIiwidCI6ImE3Y2M2NzM5LWQ2NWMtNDY1Mi1iY2FmLWZhNmQwMGUwMzI4YSJ9&pageName=4a4aae277d0a0b805b9a)** in your browser
 
 ```
 📁 Reliance-Stock-Analysis
